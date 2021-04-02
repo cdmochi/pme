@@ -1,0 +1,6 @@
+framework module Pods_PME_6016930 {
+  umbrella header "Pods-PME-6016930-umbrella.h"
+
+  export *
+  module * { export * }
+}
